@@ -1,6 +1,6 @@
 # main text of home
 name: Erik Bianco
-bio: Programador, game dev, artista. Aficionado a la tecnología.
+bio: Programador, game dev, artista. Aficionado a la tecnologia.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -56,7 +56,7 @@ email: soy@erikbianco.me
 authors:
     johndoe:
         name: Erik Bianco
-        bio: Programador, game dev, artista. Aficionado a la tecnología.
+        bio: Programador, game dev, artista. Aficionado a la tecnologia.
         external-image: false
         picture: assets/images/profile.jpg
         twitter: despediteerik
