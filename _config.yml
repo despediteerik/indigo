@@ -1,6 +1,6 @@
 # main text of home
 name: Erik Bianco
-bio: Programador, game dev, artista. Aficionado a la tecngggologia.
+bio: Programador, game dev, artista. Aficionado a la tecnologia.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -16,7 +16,7 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://despediteerik.github.io
+url: https://despediteerik.github.io/indigo/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
